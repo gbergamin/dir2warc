@@ -5,9 +5,9 @@ syntax: _./preparawarc.sh [directory]_
 
 prerequisites: UUID, WARCIT
 
-parameter: directory (must be the child of the current directory -- where _preparawarc.sh_ is)
+parameter: [directory] (must be the child of the _current directory_ i.e. where _preparawarc.sh_ is installed)
 
-This bash script:
+This bash script (_preparawarc.sh_):
 * creates an html page named [UUID]index.html cointaining a list of files included in the _[directory]_
 * creates a txt page named [UUID]index.txt cointaining a list of files included in the _[directory]_: every line contains three fields tab separated (md5, filename,  new URLidentifier)
 * creates a standard WARC using the name of the _[directory]_ used as parameter ex. g._[directory]_.warc.gz.
