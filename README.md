@@ -13,7 +13,7 @@ This bash script (_preparawarc.sh_):
 * creates a standard WARC using the name of the _[directory]_ used as parameter ex. g._[directory]_.warc.gz.
   
 Please note:
-* the new URL identifier is formed by _http://[UUID].memoria.bncf/filename_. Of course 'memoria.bncf' can be changed according your preferences
+* the new URL identifier is formed by _http://[UUID].memoria.bncf/filename_. Of course 'memoria.bncf' can be changed according to one's preferences
 * both html page and text page created, are available inside the WARC. 
   * the html page can be used to navigate the content using WARC players like _webrecorder_ or _wayback machine_
   * the txt can be used as a sort of map of the content included in WARC: it links new identifiers with the old one
