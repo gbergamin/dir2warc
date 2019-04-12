@@ -16,6 +16,6 @@ Please note:
 * the new URL identifier is formed by _http://[UUID].memoria.bncf/filename_. Of course 'memoria.bncf' can be changed according to one's preferences
 * both html page and text page created, are available inside the WARC. 
   * the html page can be used to navigate on the web  the content of the [directory] using applications like _webrecorder_ or _wayback machine_ and the new WARC created
-  * the txt can be used as a sort of map of the content included in WARC: it links new identifiers with the old ones
+  * the txt can be used as a sort of map and/or ledger of the content included in WARC: for wvery file it links new identifiers with the old ones and contains also the md5 hash
 
 
