@@ -3,7 +3,7 @@ creates a standard WARC file with the content of a local directory
 
 syntax: _./preparawarc.sh [directory]_
 
-prerequisites: UUID, Warcit
+prerequisites: [UUID](https://en.wikipedia.org/wiki/Universally_unique_identifier), [Warcit](https://github.com/webrecorder/warcit)
 
 parameter: [directory] (this [directory] must be the child of the _current directory_ i.e. where _preparawarc.sh_ is installed)
 
