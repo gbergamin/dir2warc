@@ -1,0 +1,3 @@
+36e9c868053284bc164cd0dc4b7541a0 	Love.pdf 	 http://14b143b0-5dda-11e9-8533-14dae957c72a.memoria.bncf/Love.pdf
+d570f75b61ac397c22adf6cbfa611270 	Metadata.pdf 	 http://14b143b0-5dda-11e9-8533-14dae957c72a.memoria.bncf/Metadata.pdf
+9faa48340961600f90f541416bcefcb0 	Peace.pdf 	 http://14b143b0-5dda-11e9-8533-14dae957c72a.memoria.bncf/Peace.pdf
