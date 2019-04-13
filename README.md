@@ -22,7 +22,7 @@ Please note:
   
 * peace_love_and_metadata.warc.gz is a test WARC created by preparawarc.sh
   
-* peace_love_and_metadata is a test directory containing sample pdf file and index files created by preparawarc.sh
+* peace_love_and_metadata is the  test directory containing sample pdf files and index files created by preparawarc.sh
   
 
 
