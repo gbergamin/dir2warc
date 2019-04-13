@@ -15,14 +15,13 @@ This bash script (_preparawarc.sh_):
 Please note:
 * the new URL identifier is formed by _http://[UUID].memoria.bncf/filename_. Of course 'memoria.bncf' can be changed according to one's preferences
 * both html page and text page created, are available inside the WARC. 
-  * the html page can be used to navigate on the web  the content of the [directory] using applications like _webrecorder_ or _wayback machine_ and the new WARC created
+  * the html page can be used to navigate on the web  the content of the _[directory]_ using applications like _webrecorder_ or _wayback machine_ and the new WARC created
   * the txt can be used as a sort of map and/or ledger of the content included in WARC: for every file it links new identifiers with the old ones and contains also its md5 hash
   
 ## test case
   
-* peace_love_and_metadata.warc.gz is a test WARC created by _preparawarc.sh_
-  
-* peace_love_and_metadata is the  test directory containing sample pdf files and index files created by _preparawarc.sh_
+* _peace_love_and_metadata.warc.gz_ is a test WARC created by _preparawarc.sh_
+* _peace_love_and_metadata_ is the  test directory containing sample pdf files and index files created by _preparawarc.sh_
   
 
 
