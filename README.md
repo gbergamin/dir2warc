@@ -26,7 +26,7 @@ Please note:
 
 ## ipynb
 
-For test purposes there is also _dir2warc.ipynb_ you can use for instance in [Colaboratory](https://colab.research.google.com) and _peace_love_and_metadata.tar.gz_ (gzipped tar containing a test directory and 3 test files
+For test purposes there is also _dir2warc.ipynb_ you can use for instance in [Colaboratory](https://colab.research.google.com) and _peace_love_and_metadata.tar.gz_ (gzipped tar containing a test directory and 3 test files).
 
 
 
