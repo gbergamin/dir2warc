@@ -24,7 +24,7 @@ Please note:
 * _peace_love_and_metadata_ is the  test directory containing sample pdf files and index files created by _preparawarc.sh_
 * for test purposes _peace_love_and_metadata.warc.gz_ has been uploaded to my personal account on [webrecorder](https://webrecorder.io):
 
-[here you can see the result](https://webrecorder.io/bibliorec/peace-love-and-metadata/)
+[here you can see the result](https://conifer.rhizome.org/bibliorec/peace-love-and-metadata/http://e48814f0-5ef3-11e9-91ba-14dae957c72a.memoria.bncf/e48814f0-5ef3-11e9-91ba-14dae957c72aindex.html)
 
 ## ipynb
 
